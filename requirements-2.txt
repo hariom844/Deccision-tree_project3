@@ -11,7 +11,5 @@ matplotlib
 pandas
 flasgger
 streamlit
-sklearn
-pickle
 
 
